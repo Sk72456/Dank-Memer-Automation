@@ -3,7 +3,7 @@
     {
       "token": "account_token",
       "channelID": "channel_id",
-      "guildID": "guild_id",
+      "guildID": "guild_id1",
       "state": true
     }
   ],
@@ -115,4 +115,5 @@
       "maxMinutes": 15
     }
   }
+
 }
